@@ -1,0 +1,13 @@
+{
+    "bassem": {
+        "wordpress": [
+            {"backend":"themeforest-1", "frontend":5},
+            {"backend":"themeforest-2", "frontend":5},
+            {"backend":"themeforest-3", "frontend":5}
+        ],
+        "react": [
+            {"type":"hooks", "web-app":2},
+            {"type":"native", "modile-app":4}
+        ]
+    }
+}
