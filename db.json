@@ -8,6 +8,10 @@
         "react": [
             {"type":"hooks", "web-app":2},
             {"type":"native", "modile-app":4}
+        ],
+        "batata harra": [
+            {"type":"gaby", "senior developer":2},
+            {"type":"mr.x", "modile-app":4}
         ]
     }
 }
